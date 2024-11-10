@@ -5,12 +5,12 @@
 /* styles/globals.css */
 
 @font-face {
-    font-family: "HindFont";
-    src: url("/fonts/HindSiliguriRegular.ttf") format("truetype");
-    font-weight: normal;
-    font-style: normal;
+  font-family: "HindFont";
+  src: url("/fonts/HindSiliguriRegular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
 }
 
 body {
-    font-family: "HindFont", sans-serif;
+  font-family: "HindFont", sans-serif;
 }
